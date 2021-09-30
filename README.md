@@ -27,7 +27,10 @@ Here are the list of URL's used (note: instances may not be on)
 
 The files included are: 
 
-index.html - The Index document for the website.
-/img - The background image file for the website.
-/vendor - Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function.
-/css - CSS files for the website.
+`index.html` - The Index document for the website.
+
+`/img` - The background image file for the website.
+
+`/vendor` - Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function.
+
+`/css` - CSS files for the website.
