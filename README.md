@@ -16,11 +16,11 @@ In this project, I deployed a static website to AWS using S3, CloudFront, and IA
 
 Here are the list of URL's used (note: instances may not be on)
 
-*CloudFront domain name:  https://d2s1i6wt6pczco.cloudfront.net
+* CloudFront domain name:  https://d2s1i6wt6pczco.cloudfront.net
 
-*Website-endpoint: http://my-268145795447-bucket.s3-website-us-west-1.amazonaws.com/ 
+* Website-endpoint: http://my-268145795447-bucket.s3-website-us-west-1.amazonaws.com/ 
 
-*S3 object URL: https://my-268145795447-bucket.s3.amazonaws.com/index.html 
+* S3 object URL: https://my-268145795447-bucket.s3.amazonaws.com/index.html 
 
 
 ## Static Website
